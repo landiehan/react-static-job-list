@@ -1,0 +1,17 @@
+// COLORS
+$desaturated-dark-cyan: hsl(180, 29%, 50%); // main
+$light-grayish-cyan-bg: hsl(180, 52%, 96%); // main bg
+$light-grayish-cyan-ft: hsl(180, 31%, 95%); // Label bg
+$vary-dark-grayish-cyan:hsl(180, 14%, 20%); // featured bg
+$dark-grayish-cyan: hsl(180, 8%, 52%);  // time etc. font color
+// FONTS
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@400;500;700&display=swap');
+$font-default: 'Spartan', sans-serif;
+$font-regular: 400;
+$font-medium: 500;
+$font-bold: 700;
+
+// BREAKPOINTS
+// mobile: 375px;
+// desktop: 1440px;
+$bp-largest: 1200px;
